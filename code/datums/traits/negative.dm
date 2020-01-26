@@ -47,6 +47,8 @@
 			heirloom_type = /obj/item/kitchen/knife/scimitar
 		if("Medical Doctor")
 			heirloom_type = /obj/item/healthanalyzer/advanced
+		if("Psychologist")
+			heirloom_type = /obj/item/toy/plush/borgplushie/medihound
 		if("Station Engineer")
 			heirloom_type = /obj/item/wirecutters/brass
 		if("Atmospheric Technician")

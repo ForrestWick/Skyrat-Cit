@@ -29,6 +29,9 @@
 /obj/item/card/id/job/mime
 	icon_state = "mime"
 
+/obj/item/card/id/job/psychologist
+	icon_state = "medical"
+
 /obj/item/card/id/job/science
 	icon_state = "research"
 

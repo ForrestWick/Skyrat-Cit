@@ -120,3 +120,12 @@
 	icon_state = "scrubspurple"
 	item_color = "scrubspurple"
 	can_adjust = FALSE
+
+/obj/item/clothing/under/rank/medical/psych
+	name = "Psychologist Turtleneck"
+	desc = "A wool and cotton turtleneck designed for comfort, made for employees working as psychiatric professionals aboard NT stations.."
+	icon_state = "psychol"
+	item_state = "psychol_d"
+	item_color = "psych"
+	can_adjust = TRUE
+
